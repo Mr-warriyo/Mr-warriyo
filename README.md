@@ -1,15 +1,9 @@
-<h4> Hello There!
-<br>Welcome to my Github Account, I am Mr. Warriyo and I code from a Android Device to show that Coding can be also done from Phones
-with this I also upload a lot of content on My YouTube channel and on this Repo.
+Hey!
+Welcome to my Github Account, I am Mr. Warriyo and I upload a lot of Coding stuff on my YouTube Channel and on this GitHub Account.
 
-Currently I am working on a Discord.JS Bot.
-<br>You can Follow me for awesome content which will be related to Coding.
-<br>My Youtube channel - </h4> https://youtube.com/c/MrWarriyo
+i am a coder and a professional of languages such as - JavaScript, HTML, Css, NodeJS and more!
 
-
-
-
-
+Follow my Github if you want amazing codes for your new Projects.
 
 
 
