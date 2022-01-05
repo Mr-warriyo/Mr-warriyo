@@ -1,6 +1,6 @@
 # Hello there 👋!
 
-I'm Akshansh Srivastava(aka `Mr warriyo`).
+I'm Akshansh Srivastava`(aka Mr warriyo)`.
 
 
 
