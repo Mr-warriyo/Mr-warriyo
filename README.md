@@ -18,7 +18,7 @@ I'm a `Coder/Programmer` from India who has aimed to become a certified coder ðŸ
 <ul style="list-style-type: square">
 <li> JavaScript </li>
 <li> ReactJS </li>
-<li> HTML(`Ik it's not a coding lang it's a markup language :)`) </li>
+<li> HTML </li>[`Ik it's not a coding lang it's a markup language :)`] 
 
 
 
