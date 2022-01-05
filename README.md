@@ -10,9 +10,15 @@ I'm a `Coder/Programmer` from India who has aimed to become a certified coder ðŸ
 
 <br />
 <hr />
-<hr />
+<br />
 
-# About Me
+# About Me:
+
+### Coding Languages I like/use ðŸ˜‹
+<ul style="list-style-type: square">
+<li> JavaScript </li>
+<li> ReactJS </li>
+<li> HTML(`Ik it's not a coding lang it's a markup language :)`) </li>
 
 
 
