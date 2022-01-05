@@ -21,7 +21,7 @@ I'm a `Coder/Programmer` from India who has aimed to become a certified coder ðŸ
 <li> HTML </li>
 </ul>
 
-[`Ik HTML is not a coding lang it's a markup language :)`] 
+`Ik HTML is not a coding lang it's a markup language :)`
 
 
 
