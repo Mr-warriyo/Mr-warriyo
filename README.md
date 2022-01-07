@@ -10,7 +10,7 @@
 
 <hr />
 
-<h2 align="center"> ℹ️ About Me: </h2>
+<h2 align="center"> About Me: </h2>
 
 <h4 align="center"> 😋 Coding Languages I like/use </h4>
 <ul style="list-style-type: square" align="center">
