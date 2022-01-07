@@ -27,7 +27,7 @@
 <li> PHP </li>
 </ul>
 
-### My Info: 
+### Info:
 ```js
 const Name = "Akshansh"
 const Hobby =
