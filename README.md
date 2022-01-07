@@ -68,6 +68,7 @@ $
 <hr />
 
 <h4 align="center"> Discord Status: </h4>
+<img src="https://discord.c99.nl/widget/theme-3/584684175035203605.png" />
 
 
 
