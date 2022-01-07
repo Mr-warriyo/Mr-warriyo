@@ -76,7 +76,15 @@ $
 <img src="https://github-readme-stats.vercel.app/api?username=Mr-warriyo&show_icons=true&theme=radical&title_color=ffffff&text_color=00FFFF&icon_color=FFFF00&border_radius=20px&border_color=FF5733" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-warriyo&layout=compact&theme=radical&text_color=00FFFF&title_color=ffffff&border_radius=20px&border_color=FF5733" />
 
+<hr />
 
+<h4 align="center"> 📄 Github Repositories: </h4>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Mr-warriyo/Rem-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-warriyo&repo=Rem-Bot" />
+</a>
 
 
 
