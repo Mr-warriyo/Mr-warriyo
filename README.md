@@ -1,18 +1,18 @@
-<h2 align="center"> Hello there 👋! </h2>
+<h2 align="center"> 👋 Hello there! </h2>
 
 <hr />
 
-<p align="center"> I'm Akshansh Srivastava(aka Mr warriyo). </p>
+<p align="center"> 👀 I'm Akshansh Srivastava(aka Mr warriyo). </p>
 
 <hr />
 
-<p align="center"> I'm a Coder/Programmer from India who has aimed to become not the best, but one of the best coders 😁. </p>
+<p align="center"> 😁 I'm a Coder/Programmer from India who has aimed to become not the best, but one of the best coders. </p>
 
 <hr />
 
 <h2 align="center"> About Me: </h2>
 
-<h4 align="center"> Coding Languages I like/use 😋 </h4>
+<h4 align="center"> 😋 Coding Languages I like/use </h4>
 <ul style="list-style-type: square" align="center">
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25px" width="25px" align="top" /> JavaScript </li>
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="25px" width="25px" align="top" /> ReactJS </li>
@@ -28,7 +28,7 @@
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="25px" width="25px" align="top" /> PHP </li>
 </ul>
 
-### Info:
+### ℹ️ Info:
 ```js
 const Name = "Akshansh"
 const Hobby =
@@ -58,7 +58,7 @@ $
 
 <hr />
 
-<h4 align="center"> Some Links: </h4>
+<h4 align="center"> 🔗 Some Links: </h4>
 <ul style="list-style-type: square">
 <li> <a href="https://youtube.com/c/Mr-warriyo"> YouTube </a> </li>
 <li> <a href="https://discord.gg/pnYKx8Ch4F"> Discord </a> </li>
@@ -67,7 +67,7 @@ $
 
 <hr />
 
-<h4 align="center"> Discord Status: </h4>
+<h4 align="center"> 🎮 Discord Status: </h4>
 <img src="https://discord.c99.nl/widget/theme-3/584684175035203605.png" />
 
 
