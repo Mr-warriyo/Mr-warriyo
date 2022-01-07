@@ -17,6 +17,7 @@
 <li> JavaScript </li>
 <li> ReactJS </li>
 <li> HTML & CSS </li>
+<li> NodeJS </li>
 </ul>
 
 `Ik HTML is not a coding lang it's a markup language :)`
