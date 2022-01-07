@@ -1,4 +1,6 @@
-# Hello there 👋!
+ <center> <h3> Hello there 👋! </h3> </center>
+
+<hr>
 
 I'm Akshansh Srivastava(aka `Mr warriyo`).
 
