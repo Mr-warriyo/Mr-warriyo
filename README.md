@@ -73,7 +73,7 @@ $
 <hr />
 
 <h4 align="center"> 📊 Github Stats: </h4>
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-warriyo&show_icons=true&theme=radical&title_color=ffffff&text_color=00FFFF&icon_color=000&border_radius=20px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-warriyo&show_icons=true&theme=radical&title_color=ffffff&text_color=00FFFF&icon_color=FFFF00&border_radius=20px" />
 
 
 
