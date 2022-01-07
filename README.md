@@ -80,7 +80,7 @@ $
 
 <h4 align="center"> 📄 Github Repositories: </h4>
 <a href="https://github.com/Mr-warriyo/Rem-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-warriyo&repo=Rem-Bot&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-warriyo&repo=Rem-Bot&theme=radical&title_color=ffffff&text_color=00FFFF&border_radius=20px&border_coloe=FF5733" />
 </a>
 
 
