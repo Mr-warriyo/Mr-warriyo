@@ -27,7 +27,7 @@
 <li> PHP </li>
 </ul>
 
-<h4 align="center"> My Info: </h4>
+### My Info: 
 ```js
 const Name = "Akshansh"
 const Hobby =
