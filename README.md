@@ -1,12 +1,12 @@
-<h2> Hello there 👋! </h2>
+<h2 align="center"> Hello there 👋! </h2>
 
 <hr />
 
-I'm Akshansh Srivastava(aka `Mr warriyo`).
+<p align="center"> I'm Akshansh Srivastava(aka `Mr warriyo`). </p>
 
 <hr />
 
-I'm a `Coder/Programmer` from India who has aimed to become not the best, but one of the best coders 😁.
+<p align="center"> I'm a `Coder/Programmer` from India who has aimed to become not the best, but one of the best coders 😁. </p>
 
 <hr />
 
