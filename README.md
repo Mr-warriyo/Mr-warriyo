@@ -24,8 +24,8 @@
 
 <h4 align="center"> Some Other Langs that I've learnt but don't use :0 </h4>
 <ul style="list-style-type: sqaure" align="center">
-<li> Python </li>
-<li> PHP </li>
+<li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25px" width="25px" align="top" /> Python </li>
+<li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="25px" width="25px" align="top" /> PHP </li>
 </ul>
 
 ### Info:
