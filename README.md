@@ -60,7 +60,7 @@ $
 
 <h4 align="center"> 🔗 Some Links: </h4>
 <ul style="list-style-type: square">
-<li> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" height="25px" width="25px" align="top" style="background-color: #fff" /> <a href="https://youtube.com/c/Mr-warriyo"> YouTube </a> </li>
+<li> <a href="https://youtube.com/c/Mr-warriyo"> YouTube </a> </li>
 <li> <a href="https://discord.gg/pnYKx8Ch4F"> Discord </a> </li>
 <li> <a href="https://github.com/Mr-warriyo"> Github </a> </li>
 </ul>
