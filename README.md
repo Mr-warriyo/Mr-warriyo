@@ -73,8 +73,10 @@ $
 <hr />
 
 <h4 align="center"> 📊 Github Stats: </h4>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mr-warriyo&show_icons=true&theme=radical&title_color=ffffff&text_color=00FFFF&icon_color=FFFF00&border_radius=20px&border_color=FF5733" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-warriyo&layout=compact&theme=radical&text_color=00FFFF&title_color=ffffff&border_radius=20px&border_color=FF5733" />
+<center>
+<img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=Mr-warriyo&show_icons=true&theme=radical&title_color=ffffff&text_color=00FFFF&icon_color=FFFF00&border_radius=20px&border_color=FF5733" />
+<img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-warriyo&layout=compact&theme=radical&text_color=00FFFF&title_color=ffffff&border_radius=20px&border_color=FF5733" />
+</center>
 
 <hr />
 
