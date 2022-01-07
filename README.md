@@ -55,14 +55,13 @@ Age: undefined.
 $
 ```
 
-<br />
 <hr />
-<br />
 
 <h4 align="center"> Some Links: </h4>
 <ul style="list-style-type: square">
 <li> <a href="https://youtube.com/c/Mr-warriyo"> YouTube </a> </li>
 <li> <a href="https://discord.gg/pnYKx8Ch4F"> Discord </a> </li>
+<li> <a href="https://github.com/Mr-warriyo"> Github </a> </li>
 </ul>
 
 
