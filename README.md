@@ -12,7 +12,7 @@
 
 <h2 align="center"> About Me: </h2>
 
-<h4 align="center"> Coding Languages I like/use 😋: </h4>
+<h4 align="center"> Coding Languages I like/use 😋 </h4>
 <ul style="list-style-type: square" align="center">
 <li> JavaScript </li>
 <li> ReactJS </li>
@@ -21,13 +21,13 @@
 
 `Ik HTML is not a coding lang it's a markup language :)`
 
-### Some Other Langs that I've learnt but don't use :0
-<ul style="list-style-type: circle">
+<h4 align="center"> Some Other Langs that I've learnt but don't use :0 </h4>
+<ul style="list-style-type: sqaure" align="center">
 <li> Python </li>
 <li> PHP </li>
 </ul>
 
-### My Info:
+<h4 align="center"> My Info: </h4>
 ```js
 const Name = "Akshansh"
 const Hobby =
