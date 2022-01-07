@@ -1,6 +1,6 @@
- <center> <h2> Hello there 👋! </h2> </center>
+<h2> Hello there 👋! </h2>
 
-<hr>
+<hr />
 
 I'm Akshansh Srivastava(aka `Mr warriyo`).
 
@@ -56,7 +56,6 @@ My Hobbies: Learning, Coding, Reading Docs, Watching Anime, Helping People & Usi
 My Birth Place is: India,
 My Gender: Male,
 Age: undefined.
-$
 ```
 
 
