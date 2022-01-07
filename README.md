@@ -2,11 +2,11 @@
 
 <hr />
 
-<p align="center"> I'm Akshansh Srivastava(aka `Mr warriyo`). </p>
+<p align="center"> I'm Akshansh Srivastava(aka Mr warriyo). </p>
 
 <hr />
 
-<p align="center"> I'm a `Coder/Programmer` from India who has aimed to become not the best, but one of the best coders 😁. </p>
+<p align="center"> I'm a Coder/Programmer from India who has aimed to become not the best, but one of the best coders 😁. </p>
 
 <hr />
 
