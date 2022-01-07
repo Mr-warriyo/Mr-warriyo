@@ -65,7 +65,9 @@ $
 <li> <a href="https://github.com/Mr-warriyo"> Github </a> </li>
 </ul>
 
+<hr />
 
+<h4 align="center"> Discord Status: </h4>
 
 
 
