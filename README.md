@@ -10,10 +10,10 @@
 
 <hr />
 
-# About Me:
+<h2 align="center"> About Me: </h2>
 
-### Coding Languages I like/use 😋
-<ul style="list-style-type: square">
+<h4 align="center"> Coding Languages I like/use 😋: </h4>
+<ul style="list-style-type: square" align="center">
 <li> JavaScript </li>
 <li> ReactJS </li>
 <li> HTML & CSS </li>
