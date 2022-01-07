@@ -72,7 +72,7 @@ $
 
 <hr />
 
-<h4 align="center"> 📄 Github Repositories: </h4>
+<h4 align="center"> 📊 Github Stats: </h4>
 <img src="https://github-readme-stats.vercel.app/api?username=Mr-warriyo&show_icons=true&theme=radical" />
 
 
