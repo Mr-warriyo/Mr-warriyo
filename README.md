@@ -74,7 +74,7 @@ $
 
 <h4 align="center"> 📊 Github Stats: </h4>
 <img src="https://github-readme-stats.vercel.app/api?username=Mr-warriyo&show_icons=true&theme=radical&title_color=ffffff&text_color=00FFFF&icon_color=FFFF00&border_radius=20px&border_color=FF5733" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-warriyo&layout=compact&bg_color=000&text_color=00FFFF&title_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-warriyo&layout=compact&theme=radical&text_color=00FFFF&title_color=ffffff" />
 
 
 
