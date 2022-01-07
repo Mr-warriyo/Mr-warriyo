@@ -15,9 +15,9 @@
 <h4 align="center"> Coding Languages I like/use 😋 </h4>
 <ul style="list-style-type: square" align="center">
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25px" width="25px" align="top" /> JavaScript </li>
-<li> ReactJS </li>
-<li> HTML & CSS </li>
-<li> NodeJS </li>
+<li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="25px" width="25px" align="top" /> ReactJS </li>
+<li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="25px" width="25px" align="top" />｜<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="25px" width="25px" align="top" /> HTML & CSS </li>
+<li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="25px" width="25px" align="top" /> NodeJS </li>
 </ul>
 
 `Ik HTML is not a coding lang it's a markup language :)`
