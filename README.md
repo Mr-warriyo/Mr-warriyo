@@ -73,7 +73,7 @@ $
 <hr />
 
 <h4 align="center"> 📄 Github Repositories: </h4>
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Mr-warriyo&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-warriyo&show_icons=true&theme=radical" />
 
 
 
