@@ -4,15 +4,11 @@
 
 I'm Akshansh Srivastava(aka `Mr warriyo`).
 
-<br />
 <hr />
-<br />
 
-I'm a `Coder/Programmer` from India who has aimed to become a certified coder 😁.
+I'm a `Coder/Programmer` from India who has aimed to become not the best, but one of the best coders 😁.
 
-<br />
 <hr />
-<br />
 
 # About Me:
 
