@@ -14,7 +14,7 @@
 
 <h4 align="center"> Coding Languages I like/use 😋 </h4>
 <ul style="list-style-type: square" align="center">
-<li> JavaScript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25px" width="25px" align="top" /> </li>
+<li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25px" width="25px" align="top" /> JavaScript </li>
 <li> ReactJS </li>
 <li> HTML & CSS </li>
 <li> NodeJS </li>
