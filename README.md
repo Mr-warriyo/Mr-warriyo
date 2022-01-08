@@ -13,7 +13,7 @@
 <h2 align="center"> About Me: </h2>
 
 <h4 align="center"> 😋 Coding Languages I like/use </h4>
-<ul style="list-style-type: square" align="center">
+<ul style="list-style-type: square">
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="25px" width="25px" align="top" /> JavaScript </li>
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="25px" width="25px" align="top" /> ReactJS </li>
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="25px" width="25px" align="top" />｜<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="25px" width="25px" align="top" /> HTML & CSS </li>
@@ -23,7 +23,7 @@
 `Ik HTML is not a coding lang it's a markup language :)`
 
 <h4 align="center"> Some Other Langs that I've learnt but don't use :0 </h4>
-<ul style="list-style-type: sqaure" align="center">
+<ul style="list-style-type: sqaure">
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25px" width="25px" align="top" /> Python </li>
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="25px" width="25px" align="top" /> PHP </li>
 </ul>
