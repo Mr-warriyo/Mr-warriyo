@@ -1,4 +1,4 @@
-<h2 align="center"> 👋 Hello there! </h2>
+<h3 align="center"> 👋 Hello there! </h3>
 
 <hr />
 
@@ -10,7 +10,7 @@
 
 <hr />
 
-<h2 align="center"> About Me: </h2>
+<h3 align="center"> About Me: </h3>
 
 <h4 align="center"> 😋 Coding Languages I like/use </h4>
 <ul style="list-style-type: square">
