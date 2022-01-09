@@ -6,7 +6,7 @@
 
 <hr />
 
-<p align="center"> 😁 I'm a Coder/Programmer from India who has aimed to become not the best, but one of the best coders. </p>
+<p align="center"> 😁 I'm a Coder/Programmer from India who has aimed to become not the best, but one of the best coders in the country(maybe in the world too 👀). </p>
 
 <hr />
 
@@ -80,12 +80,12 @@ $
 
 <h4 align="center"> 📄 Github Repositories: </h4>
 <a href="https://github.com/Mr-warriyo/Rem-Bot">
-  <img align="left" width="85%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-warriyo&repo=Rem-Bot&theme=radical&title_color=ffffff&text_color=00FFFF&border_radius=20px&border_color=FF5733" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-warriyo&repo=Rem-Bot&theme=radical&title_color=ffffff&text_color=00FFFF&border_radius=20px&border_color=FF5733" />
 </a>
 <br />
 <br />
 <a href="https://github.com/Mr-warriyo/Zach-TTS">
-  <img align="right" width="85%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-warriyo&repo=Zach-TTS&theme=radical&title_color=ffffff&text_color=00FFFF&border_radius=20px&border_color=FF5733" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-warriyo&repo=Zach-TTS&theme=radical&title_color=ffffff&text_color=00FFFF&border_radius=20px&border_color=FF5733" />
 </a>
 
 
