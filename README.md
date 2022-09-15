@@ -40,7 +40,7 @@ const Gender = "Male"
 const Age = "14"
 
 console.log(
-  `My Name: ${Name},\nMy Hobbies: ${Hobby},\nMy Birth Place is: ${BornIn},\nMy Gender: ${Gender},\nAge:  ${Age}.`
+  `My Name: ${Name},\nMy Hobbies: ${Hobby},\nMy Birth Place is: ${BornIn},\nMy Gender: ${Gender},\nAge: ${Age}.`
 )
 
 Problems: 0 | Error: 0 | Status: Running
@@ -52,7 +52,7 @@ My Name: Akshansh,
 My Hobbies: Learning, Coding, Reading Docs, Watching Anime, Helping People & Using Instagram,
 My Birth Place is: India,
 My Gender: Male,
-Age: undefined.
+Age: 14.
 $
 ```
 
