@@ -40,9 +40,7 @@ const Gender = "Male"
 const Age = "14"
 
 console.log(
-  `My Name: ${Name},\nMy Hobbies: ${Hobby},\nMy Birth Place is: ${BornIn},\nMy Gender: ${Gender},\nAge: ${
-    ${Age}
-  }.`
+  `My Name: ${Name},\nMy Hobbies: ${Hobby},\nMy Birth Place is: ${BornIn},\nMy Gender: ${Gender},\nAge:  ${Age}.`
 )
 
 Problems: 0 | Error: 0 | Status: Running
