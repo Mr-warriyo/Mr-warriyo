@@ -68,9 +68,11 @@ $
 <hr />
 
 <h4 align="center"> 🎮 Discord Status: </h4>
+<html>
 <div>
 <iframe src="https://discord.com/widget?id=716912981350547539&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   </div>
+  </html>
 <img width="100%" src="https://discord.c99.nl/widget/theme-3/584684175035203605.png" />
 
 <hr />
