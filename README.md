@@ -18,13 +18,13 @@
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="25px" width="25px" align="top" /> ReactJS </li>
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="25px" width="25px" align="top" />｜<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="25px" width="25px" align="top" /> HTML & CSS </li>
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="25px" width="25px" align="top" /> NodeJS </li>
+<li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25px" width="25px" align="top" /> Python </li>
 </ul>
 
 `Ik HTML is not a coding lang it's a markup language :)`
 
 <h4 align="center"> Some Other Langs that I've learnt but don't use :0 </h4>
 <ul style="list-style-type: sqaure">
-<li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="25px" width="25px" align="top" /> Python </li>
 <li> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" height="25px" width="25px" align="top" /> PHP </li>
 </ul>
 
@@ -68,6 +68,7 @@ $
 <hr />
 
 <h4 align="center"> 🎮 Discord Status: </h4>
+<iframe src="https://discord.com/widget?id=716912981350547539&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <img width="100%" src="https://discord.c99.nl/widget/theme-3/584684175035203605.png" />
 
 <hr />
