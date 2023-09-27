@@ -37,7 +37,7 @@ const Hobby =
   "Learning, Coding, Reading Docs, Watching Anime, Helping People & Using Instagram"
 const BornIn = "India"
 const Gender = "Male"
-const Age = "15"
+const Age = "16"
 
 console.log(
   `My Name: ${Name},\nMy Hobbies: ${Hobby},\nMy Birth Place is: ${BornIn},\nMy Gender: ${Gender},\nAge: ${Age}.`
@@ -52,7 +52,7 @@ My Name: Akshansh,
 My Hobbies: Learning, Coding, Reading Docs, Watching Anime, Helping People & Using Instagram,
 My Birth Place is: India,
 My Gender: Male,
-Age: 15.
+Age: 16.
 $
 ```
 
